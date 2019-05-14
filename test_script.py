@@ -1,0 +1,1 @@
+print {"When life push kick you down to the ground.. The rock is the bottom.. just get back up cos, how low can you go?"}
